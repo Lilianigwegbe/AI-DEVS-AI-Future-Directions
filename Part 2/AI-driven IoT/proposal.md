@@ -67,6 +67,7 @@ Handles complex patterns, robust to noisy data, provides feature importance insi
 
 [Dashboard: Farmer's Mobile App/Web App]
 
+
 #### Diagram Description:
 Sensors collect data → IoT Gateway aggregates → Data sent to Cloud/Edge Server → AI model processes data → Predicted crop yield displayed to farmer in a user-friendly dashboard.
 
