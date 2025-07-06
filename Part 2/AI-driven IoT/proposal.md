@@ -50,14 +50,22 @@ Handles complex patterns, robust to noisy data, provides feature importance insi
 ### Data Flow Diagram (DFD)
 
 [Sensors: Soil, Temp, Humidity, Light, pH, Rainfall] 
+
           ↓ (send real-time data)
- [IoT Gateway: Raspberry Pi or ESP32] 
+
+[IoT Gateway: Raspberry Pi or ESP32] 
+
           ↓ (transmit via Wi-Fi/LoRaWAN)
- [Cloud/Edge Server: Data Storage & Preprocessing] 
+
+[Cloud/Edge Server: Data Storage & Preprocessing] 
+
           ↓ 
-   [AI Model: Crop Yield Prediction] 
+
+[AI Model: Crop Yield Prediction] 
+
           ↓
- [Dashboard: Farmer's Mobile App/Web App]
+
+[Dashboard: Farmer's Mobile App/Web App]
 
 #### Diagram Description:
 Sensors collect data → IoT Gateway aggregates → Data sent to Cloud/Edge Server → AI model processes data → Predicted crop yield displayed to farmer in a user-friendly dashboard.
