@@ -1,6 +1,5 @@
 # Ethics in Personalized Medicine – AI & the Cancer Genomic Atlas
 
-
 ### Task Overview
 
 **Dataset**: The Cancer Genomic Atlas (TCGA)  
