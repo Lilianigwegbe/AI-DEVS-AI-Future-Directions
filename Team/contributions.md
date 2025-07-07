@@ -1,5 +1,5 @@
-Contributor 1 (Lilian Igwegbe) 
-Username-lilianigwegbe:
+### Contributor 1 (Lilian Igwegbe) 
+### Username-lilianigwegbe:
 I handled part 1, task 1 and task 2. I also wrote the READEME.md
 Task 1: Theoretical analysis
 task 2: Case Study Critique
@@ -11,8 +11,8 @@ Read: AI-IoT for Traffic Management.
 Analyze: How does integrating AI with IoT improve urban sustainability? Identify two challenges (e.g., data security).
 
 
-Contributor 2 (David Ehigbochie)
-Username- Davonichi 
+### Contributor 2 (David Ehigbochie)
+### Username- Davonichi 
 He handled Part 2, task 1
 Part 2: Practical Implementation
 Task 1: Edge AI Prototype
@@ -29,8 +29,8 @@ Explain how Edge AI benefits real-time applications.
 
 Deliverable: Code + report with accuracy metrics and deployment steps.
 
-Contributor 3 (Evanson Kimani)
-Username- Evans200png 
+### Contributor 3 (Evanson Kimani)
+### Username- Evans200png 
 He handled Part 2, task 2
 Task 2: AI-Driven IoT Concept
 
@@ -46,8 +46,8 @@ Sketch a data flow diagram (AI processing sensor data).
 
 Deliverable: 1-page proposal + diagram.
 
-Contributor 4 (Brian Kipkorir)
-Username- Evans200png
+### Contributor 4 (Brian Kipkorir)
+### Username- Evans200png
 He handled Part 2, Task 3: Ethics in Personalized Medicine
 
 Dataset: Cancer Genomic Atlas.
@@ -60,8 +60,8 @@ Suggest fairness strategies (e.g., diverse training data).
 
 Deliverable: 300-word analysis.
 
-Contributor 5 (Bombi Tsatsawane Charity) 
-Username- charity2001
+### Contributor 5 (Bombi Tsatsawane Charity) 
+### Username- charity2001
 
 She handled part 3: Futuristic Proposal
 Prompt: Propose an AI  application for 2030(e.g., AI-powered climate engineering, neural interface devices).
